@@ -111,5 +111,5 @@ li a
 @media print 
 
 {
-	div#header1, div#header3, div#col4, div#col1, div#col3 { display: none; }
+	div#header1, div#header2, div#header3, div#col4, div#col1, div#col3 { display: none; }
 }
